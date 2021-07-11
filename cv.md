@@ -2,7 +2,7 @@
 email: rusinovarusya@mail.ru
 
 ## About me:
-I am starting learn HTML, CSS and JavaScript. 
+I am starting to learn HTML, CSS and JavaScript. 
 
 ## Technical skills:
 * C++
