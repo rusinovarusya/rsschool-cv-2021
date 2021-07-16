@@ -1,0 +1,102 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    min-width: 420px;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+main {
+    padding: 10px;
+    display: flex;
+}
+
+
+.left-column {
+    margin: 10px;
+    padding: 5px;
+    width: 40%;
+    text-align: center;
+    min-width: 180px;
+}
+
+#photo-container {
+    min-width: 160px;
+    display: flex;
+    margin: 25px 0px;
+}
+#photo {
+    max-width: 300px;
+    min-width: 60px;
+    border: solid 1px;
+}
+#container-name {
+    align-items: flex-end;
+}
+
+address {
+    font-style: normal;
+}
+#ul-email {
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0px;
+}
+#li-email {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+}
+a:link {
+    color:black;
+    text-decoration: none;
+}
+a:visited {
+    color: darkslategrey;;
+}
+a:hover {
+    color: chocolate;
+    font-weight: 600;
+}
+a:active {
+    color: darkslategray;
+}
+
+.right-column {
+    margin: 10px;
+    padding: 5px;
+    width: 60%;
+}
+
+h2 {
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+h3 {
+    width: 100%;
+    background:linear-gradient(to right, rgb(0, 102, 102), #fff);
+    margin: 25px -10px 10px;
+    padding: 10px;
+    color: #fff;
+}
+
+
+footer {
+    margin: 30px;
+    padding: 5px;
+    display: flex;
+}
+.footer-section {
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    text-align: center;
+}
+#rss-logo {
+    width: 100px;
+}
