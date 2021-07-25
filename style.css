@@ -2,7 +2,7 @@
     margin: 0 auto;
 }
 
-body {
+.wrapper {
     min-width: 420px;
     background-color: #fff;
     font-family: Arial, sans-serif;
