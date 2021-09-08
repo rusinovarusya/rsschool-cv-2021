@@ -13,7 +13,7 @@ I am starting to learn HTML, CSS and JavaScript.
 No experience
 
 ## Code example:
-[Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/solutions/javascript)
+[Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/)
 ```
 String.prototype.toJadenCase = function () {
     let arrayWords = this.split(" ");
